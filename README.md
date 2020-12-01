@@ -19,6 +19,8 @@ What I learned from this:
 
   1. How to pull information from outside sources and and make use of it in the program.
   2. How to design Windows Forms to be more appealing to the eye and easier to read.
-  3. How to analyze the talent and skills available to the group and make the best use of them to deliver a complete, shippable product. This Senior Capstone was a group-based project, and my group was made up three people, one of whom was on a coding-light degree plan. We wanted to create a video game, as we were all originally studying game development, but this was not possible in the time alotted considering the sheer amount of work involved and the fact that I, at the very least, was not as versed in Unity as I wished I was, making such a process even harder. As such, we instead opted to create the Creature Codex, as we could build off of what I learned making a another program (which sadly didn't function quite right) and actually deliver a completed project. 
-
-  I ended up being the primary developer/programmer, while my teammate and friend Orion aided in debugging and keeping me on task. Jim was the team's appointed leader and the man behind all of the documentation that was submitted to the professor.
+  3. How to analyze the talent and skills available to the group and make the best use of them to deliver a complete, shippable product. 
+  
+  On that last point: this Senior Capstone was a group-based project, and my group was made up three people, one of whom was on a coding-light degree plan. We wanted to create a video game, as we were all originally studying game development, but this was not possible in the time alotted considering the sheer amount of work involved and the fact that I, at the very least, was not as versed in Unity as I wished I was, making such a process even harder. 
+  
+  As such, we instead opted to create the Creature Codex, as we could build off of what I learned making a another program (which sadly didn't function quite right) and actually deliver a completed project. I ended up being the primary developer/programmer, while my teammate and friend Orion aided in debugging and keeping me on task. Jim was the team's appointed leader and the man behind all of the documentation that was submitted to the professor.
