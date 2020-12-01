@@ -5,15 +5,15 @@ This project is a Windows Form App that functions as a compendium of mythologica
 
 This program was built to have five primary functions that the end user could use:
 
-  *Read Codex - Read Codex is fairly self explanatory. The user is taken to a window where they can see the name, mythology, type, description, and image of the creature. Entries can be cycled through using the Next and Previous buttons, and the user can return to the main screen by clicking on the Home button.
+  1.Read Codex - Read Codex is fairly self explanatory. The user is taken to a window where they can see the name, mythology, type, description, and image of the creature. Entries can be cycled through using the Next and Previous buttons, and the user can return to the main screen by clicking on the Home button.
 
-  *Jump to Entry - Jump to Entry allows you to look at a full list of entries and jump to one you have selected when you click the Jump button.
+  2.Jump to Entry - Jump to Entry allows you to look at a full list of entries and jump to one you have selected when you click the Jump button.
 
-  *Search Codex - Search Codex allows you to search for an entry based on a certain parameter that you set via an associated radio button. For example, if you choose to search by name, the Jump to Entry form will pop up, with a list that is filtered of anything that doesn't match that name. If you search by mythology for Greek entries, you will see only Greek entries. The same goes for type.
+  3.Search Codex - Search Codex allows you to search for an entry based on a certain parameter that you set via an associated radio button. For example, if you choose to search by name, the Jump to Entry form will pop up, with a list that is filtered of anything that doesn't match that name. If you search by mythology for Greek entries, you will see only Greek entries. The same goes for type.
 
-  *Create New Entry - Create New Entry allows you to create a custom entry that will then be stored in the .txt file. The image you want displayed can be chosen using the browse files button, which then calls the openFileDialog so you can select the image you want. This feature (Create New Entry) allows the Creature Codex to be used for more than justmythical creatures. If you are a fan of tabletop RPGs like Dungeons and Dragons, you could easily use this to store information about any custom monsters you create.
+  4.Create New Entry - Create New Entry allows you to create a custom entry that will then be stored in the .txt file. The image you want displayed can be chosen using the browse files button, which then calls the openFileDialog so you can select the image you want. This feature (Create New Entry) allows the Creature Codex to be used for more than justmythical creatures. If you are a fan of tabletop RPGs like Dungeons and Dragons, you could easily use this to store information about any custom monsters you create.
 
-  *Reset Codex - Reset Codex does just that: it resets the Codex using a backup file that overwrites the main .txt file with the default creatures. Should this take a little bit, a popup will appear and notify the user that the Codex is reseting, and that it may take a few minutes.
+  5.Reset Codex - Reset Codex does just that: it resets the Codex using a backup file that overwrites the main .txt file with the default creatures. Should this take a little bit, a popup will appear and notify the user that the Codex is reseting, and that it may take a few minutes.
 
 What I learned from this:
 
